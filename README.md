@@ -1,5 +1,5 @@
 # bill
-一个记账软件的项目，通过src/gjp/app/MainApp.java可以直接启动。为JAVAEE部分知识点总结的项目。
+一个记账软件的项目，通过src/gjp/app/MainApp.java可以直接启动。为JAVASE部分综合知识点总结的项目。
 
 ## 项目功能介绍
 ###	分类模块
